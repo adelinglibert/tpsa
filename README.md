@@ -1,7 +1,7 @@
 **Simple Cybersecurity Third Party Risk Assessment Generator
 **
 
-This project provides a script to generate a comprehensive third party risk assessment document. The script combines multiple DOCX and PDF files into a single PDF, analyzes the combined PDF using the OpenAI GPT-4 model, and creates a formatted memorandum based on a provided template.
+This project provides a script to generate a comprehensive third party risk assessment document. The script combines multiple DOCX and PDF files into a single PDF, analyzes the combined PDF using the OpenAI GPT-4 model, and creates a formatted document based on a provided template.
 
 Features
 
